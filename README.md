@@ -47,3 +47,8 @@ De la il apelle son repository( en gros la couche service) qui renvoie une liste
 
 Et la magie de Jackson fait que quand le controlleur retourne une list<Bd>, ca la convertie en Json
  
+ Si tu vas sur l'url : http://localhost:8080/
+ Tu trouvera un lien vers une documentation générée automatiquement des ressources rest que tu peux tester en ligne avec les bouton try out
+ 
+ 
+ 

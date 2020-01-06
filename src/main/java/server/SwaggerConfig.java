@@ -22,7 +22,7 @@ public class SwaggerConfig {
                 .build().pathProvider(new RelativePathProvider(null){
                     @Override
                     public String getApplicationBasePath(){
-                        return "/bd";
+                        return "/";
                     }
                 })
                 ;
