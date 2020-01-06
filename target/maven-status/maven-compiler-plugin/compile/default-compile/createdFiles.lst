@@ -1,0 +1,12 @@
+server\repository\CollectionRepositoryCustom.class
+server\SwaggerConfig.class
+server\repository\CollectionRepositoryImpl.class
+server\LogUtils.class
+server\bean\Bd.class
+server\controller\CollectionController.class
+server\bean\CollectionMock.class
+hello\SampleWebStaticApplication.class
+server\ApplicationStartup.class
+server\Start.class
+server\controller\AbstractController.class
+server\SwaggerConfig$1.class
